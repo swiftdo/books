@@ -25,6 +25,6 @@
 
 更多技术分析，尽情关注官方公众号**OldBirds**
 
-<img src="https://github.com/swiftdo/swiftdo.github.io/blob/master/wechat.png" width="200" />
+<img src="https://github.com/swiftdo/swiftdo.github.io/blob/master/wechat.png" width="375" />
 
 站点：[https://oldbird.run](https://oldbird.run)
