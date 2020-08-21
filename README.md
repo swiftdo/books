@@ -3,7 +3,7 @@
 
 ## 网站
 
-* [lorefree](https://ebook2.lorefree.com/)：免费海量，一天限 10 本。
+* [lorefree](https://ebook2.lorefree.com/)：免费海量，一天限下载 10 本，当然如果你切换浏览器或者梯子，可以获取更多的下载次数。
 * [SaltTiger](https://salttiger.com/)：免费海量英文电子书，无限制。
 * [鸠摩搜索](https://www.jiumodiary.com/)，基于百度网盘。
 * [大力盘搜索](https://dalipan.com/)，基于百度网盘，需要关注公众号。
