@@ -27,4 +27,4 @@
 
 <img src="https://github.com/swiftdo/swiftdo.github.io/blob/master/wechat.png" width="420" />
 
-**站点**：[https://oldbird.run](https://oldbird.run)
+**站点**：[https://oldbird.run](https://oldbird.run)，还有书单推荐喔！
