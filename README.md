@@ -19,3 +19,12 @@
 * [ruanyf/free-books](https://github.com/ruanyf/free-books) 互联网上的免费书籍
 * [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) 经典技术书籍推荐
 * [zouhuigang/book](https://github.com/zouhuigang/book) 收集的各种书籍,pdf,ppt,doc资料，下载链接永久有效！
+
+
+## 关于
+
+更多技术分析，尽情关注官方公众号**OldBirds**
+
+<img src="https://github.com/swiftdo/swiftdo.github.io/blob/master/swiftoldbird.jpeg" width="200" />
+
+站点：[https://oldbird.run](https://oldbird.run)
