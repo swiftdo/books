@@ -9,7 +9,7 @@
 * [大力盘搜索](https://dalipan.com/)，基于百度网盘，需要关注公众号。
 * [我爱电子书](https://www.52doc.com/)，有些可以下载。
 * [简单麦麦文件搜索](http://www.jiandanmaimai.cn) 目前主要资源是各种电子书 站内可以搜索。
-* [万能导航3.0](wsucai.com) 一个超级导航站，即将开放电子书搜索，请收藏备用！
+* [万能导航3.0](https://wsucai.com/) 一个超级导航站，即将开放电子书搜索，请收藏备用！
 * [ 码农电子书](https://book.mzh.ren/) 一个免费下载电子书的网站
 
 ## Github
