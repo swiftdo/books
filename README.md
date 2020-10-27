@@ -28,6 +28,6 @@
 
 更多技术分析，尽情关注官方公众号 **OldBirds**
 
-<img src="https://github.com/swiftdo/swiftdo.github.io/blob/master/wechat.png" width="420" />
+<img src="http://blog.loveli.site/mweb/wechat-logo.png" width="420" />
 
 **站点**：[https://oldbird.run](https://oldbird.run)，还有书单推荐喔！
