@@ -22,6 +22,7 @@
 * [ruanyf/free-books](https://github.com/ruanyf/free-books) 互联网上的免费书籍
 * [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) 经典技术书籍推荐
 * [zouhuigang/book](https://github.com/zouhuigang/book) 收集的各种书籍，pdf/ppt/doc资料，下载链接永久有效！
+* [CasterWx/free-programming-books](https://github.com/CasterWx/free-programming-books) 提供各种数据下载路径
 
 
 ## 关于
