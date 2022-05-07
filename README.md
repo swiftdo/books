@@ -174,15 +174,6 @@
 
 ## 电子书免费下载渠道
 
-### [lorefree](https://ebook2.lorefree.com/)
-
-站点：[https://ebook2.lorefree.com/](https://ebook2.lorefree.com/)
-
-免费海量，一天一个 ip 限下载 10 本，当然如果你切换浏览器或者梯子，可以获取更多的下载次数。
-
-![-w1267](http://blog.loveli.site/mweb/16254945893575.png ':size=400')
-
-
 ### [SaltTiger](https://salttiger.com/)
 
 站点：[https://salttiger.com/](https://salttiger.com/)
