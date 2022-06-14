@@ -6,7 +6,7 @@
 
 作者：（美国）亨特(Andrew Hunt) （美国）托马斯(David Thomas)
 
-![](http://blog.loveli.site/mweb/16254931748070.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254931748070.jpg ':size=400')
 
 《程序员修炼之道》由一系列独立的部分组成，涵盖的主题从个人责任、职业发展，直到用于使代码保持灵活、并且易于改编和复用的各种架构技术，利用许多富有娱乐性的奇闻轶事、有思想性的例子及有趣的类比，全面阐释了软件开发的许多不同方面的实践和重大陷阱。
 
@@ -16,7 +16,7 @@
 
 作者：（美国）Harold Abelson （美国）Gerald JaySussman Julie （美国）Sussman
 
-![](http://blog.loveli.site/mweb/16254932086265.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254932086265.jpg ':size=400')
 
 第2版中大部分重要程序设计系统都重新修改并做过测试，包括各种解释器和编译器。作者根据其后十余年的教学实践，还对其他许多细节做了相应的修改。
 
@@ -28,7 +28,7 @@
 
 作者：（美）Frederick P.Brooks (小弗雷德里克·布鲁克斯)
 
-![](http://blog.loveli.site/mweb/16254932482748.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254932482748.jpg ':size=400')
 
 本书内容源于作者Brooks在IBM公司任System/360计算机系列以及其庞大的软件系统OS/360项目经理时的实践经验，该项目堪称软件开发项目管理的典范。
 
@@ -42,7 +42,7 @@
 
 作者: Tom DeMarco / Timothy Lister
 
-![](http://blog.loveli.site/mweb/16254932961380.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254932961380.jpg ':size=400')
 
 
 本书专门讨论了软件开发和维护团队的管理问题，并向人们的传统认识提出了挑战。
@@ -59,7 +59,7 @@
 
 作者：Martin Fowler
 
-![](http://blog.loveli.site/mweb/16254933253830.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254933253830.jpg ':size=400')
 
 本书清晰揭示了重构的过程，解释了重构的原理和具体的实践方式，并给出了何时以及何地应该开始挖掘代码以求改善。
 
@@ -73,7 +73,7 @@
 
 作者：Paul Graham
 
-![](http://blog.loveli.site/mweb/16254933507103.jpg)
+![](http://blog.oldbird.run/mweb/16254933507103.jpg)
 
 
 本书是硅谷创业之父Paul Graham 的文集，主要介绍黑客即优秀程序员的爱好和动机，讨论黑客成长、黑客对世界的贡献以及编程语言和黑客工作方法等所有对计算机时代感兴趣的人的一些话题。
@@ -88,7 +88,7 @@
 
 作者：Jon Bentley
 
-![](http://blog.loveli.site/mweb/16254933770658.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254933770658.jpg ':size=400')
 
 本书内容围绕程序设计人员面对的一系列实际问题展开。
 
@@ -104,7 +104,7 @@
 
 作者：Steve McConnell（史蒂夫·迈克康奈尔）
 
-![](http://blog.loveli.site/mweb/16254933986118.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254933986118.jpg ':size=400')
 
 它从软件质量和编程思想等方面论述了软件构建的各个问题，并详细论述了紧跟潮流的新技术、高屋建瓴的观点、通用的概念，还含有丰富而典型的程序示例。
 
@@ -116,7 +116,7 @@
 
 作者： （美）Randal E.Bryant,（美） David R.O'Hallaron
 
-![](http://blog.loveli.site/mweb/16254934234755.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254934234755.jpg ':size=400')
 
 
 主要介绍了计算机系统的基本概念，包括最底层的内存中的数据表示、流水线指令的构成、虚拟存储器、编译系统、动态加载库，以及用户应用等。
@@ -130,7 +130,7 @@
 
 作者：Thomas H. Cormen（托马斯•科尔曼）
 
-![](http://blog.loveli.site/mweb/16254934438194.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16254934438194.jpg ':size=400')
 
 本书将严谨性和全面性融为一体，深入讨论各类算法，并着力使这些算法的设计和分析能为各个层次的读者接受。
 
@@ -143,7 +143,7 @@
 
 作者：Robert C. Martin（罗伯特·C. 马丁）
 
-![](http://blog.loveli.site/mweb/16255332200715.jpg ':size=400')
+![](http://blog.oldbird.run/mweb/16255332200715.jpg ':size=400')
 
 软件质量，不但依赖于架构及项目管理，而且与代码质量紧密相关。这一点，无论是敏捷开发流派还是传统开发流派，都不得不承认。
 
